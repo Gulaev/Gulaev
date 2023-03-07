@@ -1,4 +1,4 @@
-# About my
+<h1 align="">Hi 👋, I'm Denis Gulaev</h1>
 <h3 align="">I'm self-taught Junior Java Developer from Kyiv, Ukraine.</h3>
 
 ## 💻 Tech Stack:

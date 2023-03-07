@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Denis Gulaev</h1>
-<h3 align="center">I'm self-taught Junior Java Developer from Kyiv, Ukraine.</h3>
+<h1 align="">Hi 👋, I'm Denis Gulaev</h1>
+<h3 align="">I'm self-taught Junior Java Developer from Kyiv, Ukraine.</h3>
 
 ## 💻 Tech Stack:
 <div align="">  
